@@ -1,5 +1,5 @@
 
-### Eae meu mano, prazer Thomass 👍
+### Bom dia, prazer Thomas 👍
 
 🚀Sou um Estudante de Engenharia de software da Universidade FAG (Cascavel-PR) que está de pouco em pouco evoluindo na área!🚀 
 
@@ -10,14 +10,5 @@ redes sociais:
 )](https://www.linkedin.com/in/thomas-gabriel-martins-sales-246654234/)
 
 ![Status de Ssamoht](https://github-readme-stats.vercel.app/api?username=ThomasGSales&show_icons=true&title_color=FF0000&text_color=FF0000&icon_color=FFFFFF&bg_color=1C1C1C&border_color=FF0000&border_radius=10&locale=pt-br&card_width=650px)
-
-### São Paulo Futebol Clube
-
-<div style="display: inline_block"><br />
-<img align="center" alt="Opa" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sao_paulo_fc_starslogo.png/479px-Sao_paulo_fc_starslogo.png?20131020120819">
-</div>
-
-### A frente de mim só Deus e a roda da frente 🙏🙏🦾
-
 
 Apenas um homem que está descobrindo os seus limites com a tecnologia
