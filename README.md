@@ -11,4 +11,4 @@ redes sociais:
 
 ![Status de Ssamoht](https://github-readme-stats.vercel.app/api?username=ThomasGSales&show_icons=true&title_color=FF0000&text_color=FF0000&icon_color=FFFFFF&bg_color=1C1C1C&border_color=FF0000&border_radius=10&locale=pt-br&card_width=650px)
 
-Apenas um homem que está descobrindo os seus limites com a tecnologia
+Apenas um homem que está descobrindo os seus limites com a tecnologia.
